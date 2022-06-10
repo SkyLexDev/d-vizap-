@@ -1,2 +1,1 @@
-# d-vizap-
-JavaScript Döviz API
+Discord Botlarınızda kullanabileceğiniz döviz apisi.
